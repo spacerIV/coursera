@@ -61,7 +61,7 @@ Threads AsyncTasks Handlers
 
 #### Handler Architecture
 
-![Handler Architecture](https://raw.github.com/vichou/coursera/master/Programming%20mobile%20applications%20for%20Android%20-%20University%20of%20Maryland/pics/androidhandlearch.png)
+![Handler Architecture](https://raw.github.com/vichou/coursera/master/Programming%20mobile%20applications%20for%20Android%20-%20University%20of%20Maryland/pics/androidhandlerarch.png)
 
 - Runnable
 
