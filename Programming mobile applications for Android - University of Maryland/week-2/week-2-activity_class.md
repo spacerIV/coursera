@@ -14,8 +14,7 @@ Week 2 Activity Class
     - paused: visible - user not interacting, can be terminated (before 3.0 only)
     - stopped: not visible, can be terminated
 
-
-![Lifecycle](https://raw.github.com/vichou/coursera/master/Programming%20mobile%20applications%20for%20Android%20-%20University%20of%20Maryland/pics/lifecycle-activty-android.png)
+![Lifecycle](https://raw.github.com/vichou/coursera/master/Programming%20mobile%20applications%20for%20Android%20-%20University%20of%20Maryland/pics/lifecycle-activity-android.png)
 
 - onCreate()
     - super.onCreate (saveInstanceState)
