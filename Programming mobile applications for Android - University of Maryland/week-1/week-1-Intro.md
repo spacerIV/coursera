@@ -3,7 +3,7 @@ Week 1
 
 ### Android SoftwareStack
 
-![Stack](https://raw.github.com/vichou/Coursera-Android/master/pics/androidstack-1.jpg)
+![Stack](https://raw.github.com/vichou/coursera/Programming+mobile+applications+for+Android+-+University+of+Maryland/master/pics/androidstack-1.jpg)
 
 ### Emulator
 
