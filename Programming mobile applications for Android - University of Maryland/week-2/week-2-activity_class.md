@@ -15,7 +15,7 @@ Week 2 Activity Class
     - stopped: not visible, can be terminated
 
 
-![Lifecycle](https://raw.github.com/vichou/Coursera-Android/master/pics/lifecycle-activity-android.png)
+![Lifecycle](https://raw.github.com/vichou/coursera/master/Programming%20mobile%20applications%20for%20Android%20-%20University%20of%20Maryland/pics/lifecycle-activty-android.png)
 
 - onCreate()
     - super.onCreate (saveInstanceState)

@@ -61,23 +61,23 @@ Threads AsyncTasks Handlers
 
 #### Handler Architecture
 
-![Handler Architecture](https://raw.github.com/vichou/Coursera-Android/master/pics/androidhandlerarch.png)
+![Handler Architecture](https://raw.github.com/vichou/coursera/master/Programming%20mobile%20applications%20for%20Android%20-%20University%20of%20Maryland/pics/androidhandlearch.jpg)
 
 - Runnable
 
-![With Runnable](https://raw.github.com/vichou/Coursera-Android/master/pics/androidhandlerarchrunnable.png)
+![With Runnable](https://raw.github.com/vichou/coursera/master/Programming%20mobile%20applications%20for%20Android%20-%20University%20of%20Maryland/pics/androidhandlerarchrunnable.png)
 
 - Message
 
-![With Message](https://raw.github.com/vichou/Coursera-Android/master/pics/androidhandlerarchmessage.png)
+![With Message](https://raw.github.com/vichou/coursera/master/Programming%20mobile%20applications%20for%20Android%20-%20University%20of%20Maryland/pics/androidhandlerarchmessage.png)
 
 - Looper Runnable
 
-![Looper Runnable](https://raw.github.com/vichou/Coursera-Android/master/pics/androidhandlerarchlooperrunnable.png)
+![Looper Runnable](https://raw.github.com/vichou/coursera/master/Programming%20mobile%20applications%20for%20Android%20-%20University%20of%20Maryland/pics/androidhandlerarchlooperrunnable.png)
 
 - Looper Message
 
-![Looper Message](https://raw.github.com/vichou/Coursera-Android/master/pics/androidhandlerarchloopermessage.png)
+![Looper Message](https://raw.github.com/vichou/coursera/master/Programming%20mobile%20applications%20for%20Android%20-%20University%20of%20Maryland/pics/androidhandlerarchloopermessage.png)
 
 #### Runnables & Handlers
 

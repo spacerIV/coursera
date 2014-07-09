@@ -52,6 +52,5 @@ A description of an Intent and target action to perform with it. Instances of th
 - permission slip, allows one component to use Intent as if it were the first component
 - create in 3 ways ...
 
-![3 ways to create PendingIntent](https://raw.github.com/vichou/Coursera-Android/master/pics/androidalarmspendingintent.png)
-
+![3 ways to create PendingIntent](https://raw.github.com/vichou/coursera/master/Programming%20mobile%20applications%20for%20Android%20-%20University%20of%20Maryland/pics/androidalarmspendingintent.jpg)
 
